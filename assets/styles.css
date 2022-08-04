@@ -1,0 +1,26 @@
+.header-img-container {
+    width: 80px;
+    margin: 2px 0;
+}
+
+.main-img-container {
+    width: 350px;
+}
+
+.body-text{
+    text-align: justify;
+}
+
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+footer{
+    color: white;
+    font-weight: bold;
+    margin: 0 1%;
+}
